@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "Just looking around",
+    "owner": "me?",
+    "description": "Dunno yet"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Level 0 diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      },
+      {
+        "title": "level 1 diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
+      }
+    ]
+  }
+}
